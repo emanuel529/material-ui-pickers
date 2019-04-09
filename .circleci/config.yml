@@ -11,7 +11,7 @@ defaults: &js_defaults
 
 version: 2.1
 orbs:
-  cypress: cypress-io/cypress@1.5.1-cahce-key-fork
+  cypress: test-cypress/cache-key@dev:1.5.1-cahce-key-fork
 
 ####################
 # Custom jobs
